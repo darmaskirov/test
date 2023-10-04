@@ -8,15 +8,7 @@ p {
   color: red;
 }
 
-body {
-  font-family: "Lato";
-  font-weight: 400;
-  color: #777;
-  font-size: 16px;
-  letter-spacing: 2px;
-  padding: 50px;
-  background-color: white;
-}
+
 
 .container {
   background-color: #F7F7F7;
